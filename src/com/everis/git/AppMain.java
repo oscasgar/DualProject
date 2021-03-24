@@ -8,6 +8,8 @@ public class AppMain {
 		
 		
 		System.out.println("Hola mundo");
+		
+		System.out.println("Hola dual");
 	}
 
 }
